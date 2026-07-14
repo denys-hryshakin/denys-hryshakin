@@ -4,7 +4,7 @@
 Real-time platforms · AI content systems · e-commerce · geo products  
 Frontend, backend, data, and the infrastructure underneath — type-safe from schema to UI
 
-[LinkedIn](https://www.linkedin.com/in/denys-hryshakin/) · [Email](mailto:dgrishakin12@gmail.com) · [Telegram](https://t.me/inspirer21)
+[LinkedIn](https://www.linkedin.com/in/denys-hryshakin/) · [Email](mailto:dgrishakin12@gmail.com)
 
 ---
 
